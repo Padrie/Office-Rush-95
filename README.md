@@ -22,5 +22,5 @@ I was responsible for the 3 minigames in our game
 
 <h3 align="left">Stamping Minigame</h3>
 
-![Email]([https://cdn.discordapp.com/attachments/1051801782818451479/1481503948593561700/EmailMinigame.gif](https://cdn.discordapp.com/attachments/1051801782818451479/1481503948593561700/EmailMinigame.gif?ex=69b38d92&is=69b23c12&hm=d3486fcab0d8daf1eee0b0fb75f56fde782045e248513ed1b0b1b8425c2c97a2))
+![Email](https://cdn.discordapp.com/attachments/1051801782818451479/1481503948593561700/EmailMinigame.gif?ex=69b38d92&is=69b23c12&hm=d3486fcab0d8daf1eee0b0fb75f56fde782045e248513ed1b0b1b8425c2c97a2)
 
