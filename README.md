@@ -14,7 +14,7 @@ Office Rush'95 - Future Edition is a couch Competitive 3D game, where your goal 
 
 <h2 align="left">Contributions</h2>
 
-This project was made in a team of 10, while on the engineering side we had 2 people, my teammate [Chris](https://github.com/FuzzyHerbivore) who was responsible for the general Gameplay, Player logic and Interaction with Player and environment, and Me, responsible for the minigames
+This project was made in a team of 10, while on the engineering side we had 2 people, my teammate [Chris](https://github.com/FuzzyHerbivore) who was responsible for the general Gameplay, Player logic and Interaction with Player and environment, and Me, responsible for the minigamese
 
 <h2 align="left">My Responsibility</h2>
 
