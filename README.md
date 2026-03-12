@@ -24,16 +24,16 @@ I was responsible for the 3 minigames in our game
 
 You'll be presented a paper with either 1 or 2 symbols on it, and 3 Stamps that are also colored in either Red, Green, or Blue. Your task is to stamp the symbol with it's corresponding Colored stamp, and after every symbol is stamped, to Drag and Drops it into the Tray right next to it. You'll have to repeat this a number of times until you're rewarded with a point. 
 
-![Email](https://cdn.discordapp.com/attachments/1051801782818451479/1481503948593561700/EmailMinigame.gif?ex=69b38d92&is=69b23c12&hm=d3486fcab0d8daf1eee0b0fb75f56fde782045e248513ed1b0b1b8425c2c97a2)
+![Stamping](https://imgur.com/Iul41Zy)
 
 <h3 align="left">Sorting Minigame</h3>
 
 In this minigame, you'll have a stack of colored paper and 3 Trays that are also colored in Red, Green and Blue. You'll have to sort the correct paper into a Tray, until your stack is empty.
 
-![Email](https://ibb.co/Xkzvft0y)
+![Sorting](https://imgur.com/u0FPcOV)
 
 <h3 align="left">Email Minigame</h3>
 
 You are just presented a Screen with a combination of Button codes. Press the buttons fast enough to not run out of time, or risk failing the task.
 
-![Email](https://imgur.com/a/P07ZKPR)
+![Email](https://imgur.com/UhAvi7m)
